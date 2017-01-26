@@ -11,7 +11,9 @@
 	<li>တည်နေရာတူ မှတ်တိုင်ကွဲများအား ချိတ်ဆက်သွားရန် ရည်ရွယ်သည်
 </ul>
 </div>
-
+<br>
+<img src="http://i.imgur.com/Wmg1pf8.png">
+<br>
 ## List of files
 <div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
 <ul style="line-height: 1.5em;">
