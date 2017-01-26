@@ -1,6 +1,7 @@
 # YBS Data - Simplify JSON
-<div style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
+<div style="font-family: line-height: 1.5em; myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
 ရန်ကုန်တိုင်းဒေသကြီး အများပြည်သူ သယ်ယူပို့ဆောင်ရ ေးကြီးကြပ်မှု အာဏာပိုင်အဖွဲ့ (YRTA) မှ တရားဝင် ထုတ်ပြန်ထားသည့် YBS Open Data (ybs_000115) အား App များ Website များတွင် အသင့် အသုံးပြုနိုင်သော JSON Data အဖြစ် ပြောင်းလဲ ထားခြင်းဖြစ်သည်။
+<br>
 <ul>
 	<li>အသေးစိတ် အချက်အလက်များ ဖယ်ထုတ်ထားသည်
 	<li>String များအား JSON ဖြစ်အောင် Parse လုပ်ထားသည်
@@ -12,23 +13,28 @@
 </div>
 
 ## List of files
-<div style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
-<ul>
+<div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
+<ul style="line-height: 1.5em;">
 	<li><code>bus-stop-data-by-id.js</code>
 	<span style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">မှတ်တိုင်အမှတ်အလိုက် အမည်၊ အမည်ကွဲ၊ လမ်းနှင့် တည်နေရာများ ပါဝင်သည်</span>
 	<li><code>bus-stop-ids-of-lines.js</code>
 	<span style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">ယာဉ်လိုင်းအမှတ်အလိုက် ဖြတ်သန်းသွားရောက်သည့် မှတ်တိုင်အမှတ်များ ပါဝင်သည်</span>
-	<li><code>bus-stop-names-of-lines.js</code>
+	<li><code>bus-stop-names-of-lines.js </code>
 	<span style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">ယာဉ်လိုင်းအမှတ်အလိုက် ဖြတ်သန်းသွားရောက်သည့် မှတ်တိုင်အမည်များ ပါဝင်သည်</span>
 	<li><code>lines-of-bus-stops.js</code>
 	<span style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">မှတ်တိုင်အလိုက် ဖြတ်သန်းသွားသည့် ယာဉ်လိုင်းများ ပါဝင်သည်</span>
 </ul>
+</div>
 
-** ယာဉ်လိုင်းအမှတ်အလိုက် ဖြတ်သွားသည့်သည့် မှတ်တိုင်အမှတ်နှင့် မှတ်တိုင်အမည်များအား တွဲဖက်ပေးသင့်သည်။ ဆက်လက်ဖြည့်စွက်ရန် ရည်ရွယ်သည်။
+### Todo
+<div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
+* မှတ်တိုင်အမှတ်အလိုက် အချက်အလက်များတွင် မြို့နယ် ထည့်သွင်းသည့်သည်<br>
+** မှတ်တိုင်အလိုက် အချက်အလက်များတွင် ဦးတည်ရာအညွှန်း (သို့) လမ်း၏ မည်သည့်ဘက်တွင် တည်ရှိသည်ကို ထည့်သွင်းသင့်သည်<br>
+*** ယာဉ်လိုင်းအမှတ်အလိုက် ဖြတ်သွားသည့်သည့် မှတ်တိုင်အမှတ်နှင့် မှတ်တိုင်အမည်များအား တွဲဖက်ပေးသင့်သည်။ ဆက်လက်ဖြည့်စွက်ရန် ရည်ရွယ်သည်။
 </div>
 
 ## Disclaimer
-<div style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
+<div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
 ဤအချက်အလက်များသည် ရန်ကုန်တိုင်းဒေသကြီး အများပြည်သူ သယ်ယူပို့ဆောင်ရ ေးကြီးကြပ်မှု အာဏာပိုင်အဖွဲ့ (YRTA) တရားဝင် စီမံထိမ်းသိမ်း၍ ဖြန့်ဖြူးထားခြင်း <b>မဟုတ်ပါ</b>။ အချက်အလက် တိကျမှုအားလည်ကောင်း၊ ပြည့်စုံမှုအားလည်ကောင်း အာမမခံပါ။
 </div>
 
