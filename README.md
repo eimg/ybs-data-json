@@ -1,7 +1,7 @@
 # YBS Data - Simplify JSON
 <div style="font-family: line-height: 1.5em; myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
 ရန်ကုန်တိုင်းဒေသကြီး အများပြည်သူ သယ်ယူပို့ဆောင်ရ ေးကြီးကြပ်မှု အာဏာပိုင်အဖွဲ့ (YRTA) မှ တရားဝင် ထုတ်ပြန်ထားသည့် YBS Open Data (ybs_000115) အား App များ Website များတွင် အသင့် အသုံးပြုနိုင်သော JSON Data အဖြစ် ပြောင်းလဲ ထားခြင်းဖြစ်သည်။
-<br>
+<br><br>
 <ul>
 	<li>အသေးစိတ် အချက်အလက်များ ဖယ်ထုတ်ထားသည်
 	<li>String များအား JSON ဖြစ်အောင် Parse လုပ်ထားသည်
