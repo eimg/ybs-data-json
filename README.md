@@ -55,5 +55,5 @@
 </div><br><br>
 http://data.yangonbus.com/license.html
 
-## Note
+## Remark
 <small>Missing Bus #200 in original source.</small>
