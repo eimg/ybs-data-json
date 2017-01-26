@@ -1,0 +1,38 @@
+# YBS Data - Simplify JSON
+<div style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
+ရန်ကုန်တိုင်းဒေသကြီး အများပြည်သူ သယ်ယူပို့ဆောင်ရ ေးကြီးကြပ်မှု အာဏာပိုင်အဖွဲ့ (YRTA) မှ တရားဝင် ထုတ်ပြန်ထားသည့် YBS Open Data (ybs_000115) အား App များ Website များတွင် အသင့် အသုံးပြုနိုင်သော JSON Data အဖြစ် ပြောင်းလဲ ထားခြင်းဖြစ်သည်။
+<ul>
+	<li>အသေးစိတ် အချက်အလက်များ ဖယ်ထုတ်ထားသည်
+	<li>String များအား JSON ဖြစ်အောင် Parse လုပ်ထားသည်
+	<li>Whitespace အပိုများ ဖယ်ထုတ်သန့်စင်ထားသည်
+	<li>စာလုံးပေါင်းများအချို့ပြင်ဆင်ထားပြီး ဆက်လက်ပြင်ဆင်ရန် ရည်ရွယ်သည်
+	<li>မှတ်တိုင် အမည်ကွဲများ တွဲဖက် ထည့်သွင်းသွားရန် ရည်ရွယ်သည်
+	<li>တည်နေရာတူ မှတ်တိုင်ကွဲများအား ချိတ်ဆက်သွားရန် ရည်ရွယ်သည်
+</ul>
+</div>
+
+## List of files
+<div style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
+<ul>
+	<li><code>bus-stop-data-by-id.js</code>
+	<span style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">မှတ်တိုင်အမှတ်အလိုက် အမည်၊ အမည်ကွဲ၊ လမ်းနှင့် တည်နေရာများ ပါဝင်သည်</span>
+	<li><code>bus-stop-ids-of-lines.js</code>
+	<span style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">ယာဉ်လိုင်းအမှတ်အလိုက် ဖြတ်သန်းသွားရောက်သည့် မှတ်တိုင်အမှတ်များ ပါဝင်သည်</span>
+	<li><code>bus-stop-names-of-lines.js</code>
+	<span style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">ယာဉ်လိုင်းအမှတ်အလိုက် ဖြတ်သန်းသွားရောက်သည့် မှတ်တိုင်အမည်များ ပါဝင်သည်</span>
+	<li><code>lines-of-bus-stops.js</code>
+	<span style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">မှတ်တိုင်အလိုက် ဖြတ်သန်းသွားသည့် ယာဉ်လိုင်းများ ပါဝင်သည်</span>
+</ul>
+
+** ယာဉ်လိုင်းအမှတ်အလိုက် ဖြတ်သွားသည့်သည့် မှတ်တိုင်အမှတ်နှင့် မှတ်တိုင်အမည်များအား တွဲဖက်ပေးသင့်သည်။ ဆက်လက်ဖြည့်စွက်ရန် ရည်ရွယ်သည်။
+</div>
+
+## Disclaimer
+<div style="font-family: myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
+ဤအချက်အလက်များသည် ရန်ကုန်တိုင်းဒေသကြီး အများပြည်သူ သယ်ယူပို့ဆောင်ရ ေးကြီးကြပ်မှု အာဏာပိုင်အဖွဲ့ (YRTA) တရားဝင် စီမံထိမ်းသိမ်း၍ ဖြန့်ဖြူးထားခြင်း <b>မဟုတ်ပါ</b>။ အချက်အလက် တိကျမှုအားလည်ကောင်း၊ ပြည့်စုံမှုအားလည်ကောင်း အာမမခံပါ။
+</div>
+
+## License
+ဤအချက်အလက်များအား YRTA Open Data License 1.0 ပါ ခွင့်ပြုချက်နှင့်အညီ ပြင်ဆင်၍ ပြန်လည်ဖြန့်ဝေသည်။ ဤအချက်အလက်များအား YRTA Open Data License 1.0 ပါ ခွင့်ပြုချက်များ၊ ကန့်သန့်ချက်များနှင့်အညီ ရယူခြင်း၊ ပြင်ဆင်ခြင်း၊ ဖြန့်ဝေခြင်းများ ပြုလုပ်နိုင်သည်။
+
+http://data.yangonbus.com/license.html
