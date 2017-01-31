@@ -30,6 +30,20 @@
 </ul>
 </div>
 
+### Todo
+<div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
+* မှတ်တိုင်အလိုက် အချက်အလက်များတွင် ဦးတည်ရာအညွှန်း (သို့) လမ်း၏ မည်သည့်ဘက်တွင် တည်ရှိသည်ကို ထည့်သွင်းသင့်သည်။
+</div>
+
+## Note
+<div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
+မှတ်တိုင်အလိုက် ဖြတ်သန်းသွားသည့် ယာဉ်လိုင်းများ ဖော်ပြရာတွင်၊ တည်နေရာတူညီသည် အခြားမှတ်တိုင်များသို့ ရောက်ရှိသည့် ယာဉ်လိုင်းများအားလည်း တွဲဖက်ပေးထားသည်။ <code>lines-of-bus-stops.js</code> တွင်လေ့လာပါ။
+
+<img src="http://i.imgur.com/AITZoYo.png">
+
+ဥပမာ - မြို့ထဲသို့သွားသည့် "သီတာလမ်း" မှတ်တိုင်နှင့် လမ်းတစ်ဘက်ခြမ်းရှိ တာမွေသို့သွားသည့် "သီတာလမ်း" မှတ်တိုင်တို့သည် မှတ်တိုင်အမှတ် ကွဲပြားသော်လည်း တည်နေရာ တစ်ခုတည်းဖြစ်သည်ဟု မှတ်ယူခြင်းဖြစ်ပါသည်။
+</div>
+
 ## Route API
 <div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
 သွားရောက်လိုသည့် ခရီးစဉ် အစမှတ်တိုင် <code>id</code> နှင့် အဆုံးမှတ်တိုင် <code>id</code> ပေးလျှင် စီးရမည့် ယာဉ်လိုင်းများအား ပြန်ပေးနိုင်သည့် လုပ်ဆောင်ချက်ဖြစ်သည်။ အသုံးပြုရန် API URL မှာ အောက်ပါအတိုင်ဖြစ်သည်။
@@ -68,20 +82,6 @@
 </ul>
 
 API ဆိုင်ရာ ကျန်အချက်အလက်များကို <a href="http://barseeyale.com">barseeyale.com</a> တွင် ဆက်လက်လေ့လာနိုင်သည်။
-</div>
-
-### Todo
-<div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
-* မှတ်တိုင်အလိုက် အချက်အလက်များတွင် ဦးတည်ရာအညွှန်း (သို့) လမ်း၏ မည်သည့်ဘက်တွင် တည်ရှိသည်ကို ထည့်သွင်းသင့်သည်။
-</div>
-
-## Note
-<div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
-မှတ်တိုင်အလိုက် ဖြတ်သန်းသွားသည့် ယာဉ်လိုင်းများ ဖော်ပြရာတွင်၊ တည်နေရာတူညီသည် အခြားမှတ်တိုင်များသို့ ရောက်ရှိသည့် ယာဉ်လိုင်းများအားလည်း တွဲဖက်ပေးထားသည်။ <code>lines-of-bus-stops.js</code> တွင်လေ့လာပါ။
-
-<img src="http://i.imgur.com/AITZoYo.png">
-
-ဥပမာ - မြို့ထဲသို့သွားသည့် "သီတာလမ်း" မှတ်တိုင်နှင့် လမ်းတစ်ဘက်ခြမ်းရှိ တာမွေသို့သွားသည့် "သီတာလမ်း" မှတ်တိုင်တို့သည် မှတ်တိုင်အမှတ် ကွဲပြားသော်လည်း တည်နေရာ တစ်ခုတည်းဖြစ်သည်ဟု မှတ်ယူခြင်းဖြစ်ပါသည်။
 </div>
 
 ## Disclaimer
