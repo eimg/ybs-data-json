@@ -48,7 +48,7 @@
 <div style="font-family: line-height: 1.5em;  myanmar3, padauk, 'noto sans myanmar', pyidaungsu, 'myanmar text'">
 သွားရောက်လိုသည့် ခရီးစဉ် အစမှတ်တိုင် <code>id</code> နှင့် အဆုံးမှတ်တိုင် <code>id</code> ပေးလျှင် စီးရမည့် ယာဉ်လိုင်းများအား ပြန်ပေးနိုင်သည့် လုပ်ဆောင်ချက်ဖြစ်သည်။ အသုံးပြုရန် API URL မှာ အောက်ပါအတိုင်ဖြစ်သည်။
 <br><br>
-<code><a href="http://barseeyale.com/api/route/best/141/287">http://barseeyale.com/api/route/best/141/287</a></code>
+<code><a href="http://barseeyale.com/api/route/best/138/287">http://barseeyale.com/api/route/best/138/287</a></code>
 <br><br>
 <code>138</code> သည် အစမှတ်တိုင် (လမ်း ၃၀) ဖြစ်သည်။ <code>287</code> သည် အဆုံးမှတ်တိုင် (လှည်းတန်း) ဖြစ်သည်။ မိမိလိုအပ်သည့် ခရီးစဉ်၏ အစမှတ်တိုင်၊ အဆုံးမှတ်တိုင်တို့နှင့် အစားထိုးအသုံးပြုနိုင်သည်။
 
